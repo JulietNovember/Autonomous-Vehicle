@@ -10,4 +10,4 @@ on the output of that traffic light it would pull up to the trafflic light (Red,
 Collision avoidance in this project was orignally to be based on acceleration of objects detected by the lidar. However, due to collaboration with the professor, this
 was beyond the scope of the project (Hence why acceleration is found but unused), and was instead substituted for braking at a distance of 120 mm.
 
-The Professor was impressed with the project and I recieved an 4.0. 
+The professor was impressed with the project and I recieved an 4.0. 
